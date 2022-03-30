@@ -1,0 +1,17 @@
+{
+    "users":[
+        {
+            "name": "Dastan",
+            "age":20,
+            "position" : "frontend" 
+
+        },
+        {
+            "name": "Harry",
+            "age":24,
+            "position" : "backend" 
+
+
+        }
+    ]
+}
